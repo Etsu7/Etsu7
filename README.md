@@ -7,5 +7,6 @@
 
 ## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateo-massinond)
-[![Email](https://img.shields.io/badge/Email-%23333.svg)] mateo.massinond@gmail.com
+[![Email](https://img.shields.io/badge/Email-%23333.svg)](mailto:mateo.massinond@gmail.com)
+
 
